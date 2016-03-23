@@ -1,5 +1,7 @@
 # webservice
 
-webservice.php in wamp floder
-From1.cs in visual studio
-From1.designd in visual studio
+webservice.php in wamp 
+
+Form1.cs in visual studio
+
+Form1.designd in visual studio
